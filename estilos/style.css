@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('../imagens/fundo-madeira.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 2200px;
+    width: 1600px;
+}
+
